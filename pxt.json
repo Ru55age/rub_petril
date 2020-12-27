@@ -1,0 +1,22 @@
+{
+    "name": "RUB_Petril",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "RUB": "github:4tronix/rub#2fde9cafd8c815c7c8b9ba19b4b73c97141f4d8a",
+        "microphone": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
